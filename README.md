@@ -1,5 +1,5 @@
 # iOS-Daily-Quiz
-iOS Daily Quiz
+iOS Daily Quiz from BAEK JOON
 
 ## July 2022
 |     Mon     |     Tue     |     Wed     |     Thu     |     Fri     |     Sat     |     Sun     |
